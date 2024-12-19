@@ -1,5 +1,8 @@
 # Jump Odyssey
 
+It becomes difficult to manage the files in a webview project in devvit so the source code of the game is here: 
+https://github.com/vitalspace/jump-odyssey
+
 ## Inspiration
 We were inspired to create a dynamic and engaging puzzle game that combines physics-based mechanics with simple yet addictive gameplay. We wanted a game that rewards precision, timing, and quick reflexes while providing players a way to compete globally.
 
